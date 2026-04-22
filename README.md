@@ -35,6 +35,6 @@ This project analyzes sales data from the Superstore dataset to understand busin
 ---
 
 ## 📁 Project Structure
-python/day11_kaggle.py
-data/Sample - Superstore.csv
-output/top_products.csv
+- python/day11_kaggle.py
+- data/Sample - Superstore.csv
+- output/top_products.csv
