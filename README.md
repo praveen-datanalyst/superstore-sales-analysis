@@ -38,3 +38,15 @@ This project analyzes sales data from the Superstore dataset to understand busin
 - python/day11_kaggle.py
 - data/Sample - Superstore.csv
 - output/top_products.csv
+  
+---
+
+## 📊 Sample Output
+-Top 5 Products by Sales:
+
+-Product Name
+-Canon imageCLASS 2200 Advanced Copier                                          61599.824
+-Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind    27453.384
+-Cisco TelePresence System EX90 Videoconferencing Unit                          22638.480
+-HON 5400 Series Task Chairs for Big and Tall                                   21870.576
+-GBC DocuBind TL300 Electric Binding System                                     19823.479
