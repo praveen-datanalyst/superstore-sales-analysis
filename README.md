@@ -38,4 +38,16 @@ This project analyzes sales data from the Superstore dataset to understand busin
 - python/day11_kaggle.py
 - data/Sample - Superstore.csv
 - output/top_products.csv
-  
+
+---
+
+## 📊 Visual Insights
+
+### Sales by Category
+![Category](images/category_sales.png)
+
+### Top Products
+![Products](images/top_10_products.png)
+
+### Sales by Region
+![Region](images/sales_by_region.png)
